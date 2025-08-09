@@ -1,6 +1,8 @@
 import qrcode as qr
-img=qr.make('https://www.hackerrank.com/certificates/iframe/fce82851023c')
-img.save('Certificate.png')
+             #Here you will write the code or link or message
+img=qr.make('')
+#Here you will write its name and format
+img.save('')
 
 
 
