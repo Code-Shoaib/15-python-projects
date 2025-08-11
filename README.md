@@ -181,10 +181,12 @@ Then it will make the qr code in your files.
 ## Cafe Managment System
 In this system the customer see a menu of cafe where he can order what he wants if the product is not in menu it will show error else if person give 1 order it will ask to it for another if customers want and then show the total bill
 <br>
+
 ## Calculator 
 It is can do basic caluclations
 save the history of your calculations in your system
 <br>
+
 ## Password Guessing game with Hints
 It is a simple text-based game where:
 The computer picks a secret password (word).
