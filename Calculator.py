@@ -13,9 +13,9 @@ class calculator:
         print(x/y)
 
 
-x=int(input('Enter first number'))
+x=int(input('Enter first number: '))
 symbol=input('Enter symbol + , - , * , /, :')
-y=int(input('Enter second number'))
+y=int(input('Enter second number: '))
 
 person=calculator
 #Add all conditions
